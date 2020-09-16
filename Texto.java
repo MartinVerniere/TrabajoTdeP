@@ -2,8 +2,7 @@
 public class Texto {
 		private String Txt;
 		public Texto() {
-			Txt="Prueba para tener un conflicto para TdeP";
-		}
+			Txt="Creando conflictos porque si";
 		public String getTexto() {
 			return Txt;
 		}
